@@ -2,7 +2,7 @@
 
 import javax.swing.JOptionPane;
 
-public class ContaTerninal {
+public class ContaTerminal {
     public static void main(String[] args) throws Exception {
          
         String  digiteNomeCliente  = JOptionPane.showInputDialog("Digite nome do Cliente"); 
